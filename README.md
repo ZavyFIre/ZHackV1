@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://meteorclient.com/icon.png" alt="meteor-client-logo" width="15%"/>
+<img src="https://cdn.discordapp.com/attachments/1175166551448637511/1175193976920342538/New_Project_24.png?ex=656a57ae&is=6557e2ae&hm=829f2bb360993c1d84918815279cf5c54aacc2290ba6460380c6bff1f25a9599&" width="15%"/>
 </p>
 
 <h1 align="center">Meteor</h1>
