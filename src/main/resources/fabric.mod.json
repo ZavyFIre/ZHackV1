@@ -1,13 +1,12 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
+  "name": "ZHackV1",
   "id": "meteor-client",
   "version": "${version}",
   "description": "Based utility mod.",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "MeZavy!"
+    
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
